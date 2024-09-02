@@ -21,7 +21,7 @@ function Rgewpe {
   $filepath = $path.path
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\hide icons" /f /v icon /d $filepath
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\hide icons\command" /f /ve /d "$filepath -control hideIcons"
-  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\show icons" /f /v ico /d $filepath
+  reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\show icons" /f /v icon /d $filepath
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\show icons\command" /f /ve /d "$filepath -control showIcons"
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\暂停壁纸" /f /v icon /d $filepath
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\暂停壁纸\command" /f /ve /d "$filepath -control pause"
