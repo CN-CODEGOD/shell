@@ -1,0 +1,12 @@
+from art import *
+print("_________________________________________________________________________________________________")
+print("🎈")
+startup_Art=text2art("PowerShell")
+print(startup_Art)
+print("🎈")
+print("_________________________________________________________________________________________________")
+DECRIPTION=text2art("Terminal CENTER~")
+print(DECRIPTION)
+face=art("woman",number=2)
+quake=text2art("quake")
+print(quake,"🖥🖥")
