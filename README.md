@@ -45,4 +45,4 @@ move focus ↓ ：Alt+↓
 
 tutorial videos：
 
- 
+ https://youtu.be/-pI8UXKiTOo
