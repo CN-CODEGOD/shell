@@ -67,4 +67,4 @@ RightShell可以添加各种实用的或者有趣的终端。
 
 tutorial videos：
 
- https://youtu.be/-pI8UXKiTOo
+
