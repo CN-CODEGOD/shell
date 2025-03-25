@@ -26,7 +26,9 @@ A Collections of windows terminal shell i build
             "keys": "ctrl+`"
         }
     ]
+
 ```
+
     ```
     "profiles"
     {
@@ -47,6 +49,7 @@ A Collections of windows terminal shell i build
 
 }
 ```
+
 
 ```
 "scheme":
@@ -74,7 +77,10 @@ A Collections of windows terminal shell i build
             "white": "#EEEEEE",
             "yellow": "#FFFFB6"
         }]
-```
+        
+       ```
+
+
 
 ## RightShell
 
@@ -108,7 +114,7 @@ move focus ↓ ：Alt+↓
 # more
 
  最好用的MYSHELL theme
-```
+
 {
                 "backgroundImage": null,
                 "closeOnExit": "automatic",
@@ -125,7 +131,7 @@ move focus ↓ ：Alt+↓
                 "useAcrylic": true
             }
 
-```
+
  Myshell 与 RightShell 的区别
 
 MyShell 使用像操作系统，可以在MyShell 全屏下进行全局操控电脑，利用Powershell连接电脑，进行
