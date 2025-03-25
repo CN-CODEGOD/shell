@@ -29,7 +29,7 @@ A Collections of windows terminal shell i build
 
 ```
 
-    ```
+ ```
     "profiles"
     {
       "backgroundImage": null,
