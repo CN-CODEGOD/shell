@@ -77,8 +77,7 @@ A Collections of windows terminal shell i build
             "white": "#EEEEEE",
             "yellow": "#FFFFB6"
         }]
-        
-       ```
+```
 
 
 
