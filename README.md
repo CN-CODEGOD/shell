@@ -102,3 +102,5 @@ A Collections of windows terminal shell i build
             },
             "id": "User.sendInput.F0256E07"
         }]
+```
+[BILIBILI]DEMO:https://www.bilibili.com/video/BV1f4rqY5E89/
