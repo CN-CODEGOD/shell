@@ -82,3 +82,23 @@ A Collections of windows terminal shell i build
 
 
 
+# RightShell
+
+```
+"keybinding":[
+  {
+            "id": "User.globalSummon.9CD8E91",
+            "keys": "win+`"
+        }]
+```
+```
+ "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "sendInput",
+                "input": "cd $env:homedir\r"
+            },
+            "id": "User.sendInput.F0256E07"
+        }]
