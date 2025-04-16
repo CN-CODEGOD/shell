@@ -1,6 +1,6 @@
 # Shell 
 A Collections of windows terminal shell i build
-
+哔哩哔哩](https://github.com/CN-CODEGOD/shell)
 ## catalog
 ### favorite
 ### explorer
@@ -14,7 +14,7 @@ A Collections of windows terminal shell i build
 ### NoteSHell
 
 [
-哔哩哔哩](https://github.com/CN-CODEGOD/shell)
+
 # Myshell
 
 
