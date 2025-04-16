@@ -2,7 +2,7 @@
 A Collections of windows terminal shell i build
 
 ## catalog
-
+### favorite
 ### explorer
 ### bank
 ### ezshell
