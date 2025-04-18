@@ -1,6 +1,6 @@
 # Shell 
 A Collections of windows terminal shell i build
-哔哩哔哩](https://github.com/CN-CODEGOD/shell)
+哔哩哔哩](https://www.bilibili.com/video/BV1ozoKYfEBD/?spm_id_from=333.1387.homepage.video_card.click)
 
 # 以下是我自己build的一些shell：
 ## catalog
